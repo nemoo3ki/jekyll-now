@@ -17,7 +17,8 @@ them Quickly and
 get on with Improving
 your other Innovations.
 
-- Steve Jobs -```
+- Steve Jobs -
+```
 
 ### Contact me
 
