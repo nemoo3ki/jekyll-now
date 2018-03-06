@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 블록체인 월드 : 최신 트렌드와 기술이해&비즈니스 적용전략
+title: 블록체인 월드 - 최신 트렌드와 기술이해&비즈니스 적용전략
 ---
 
 ![Block Chain World](https://raw.githubusercontent.com/nemoo3ki/nemoo3ki.github.io/master/images/thumb_128365.jpg)
