@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nemoo Nemoo
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Sometimes
+when you innovate,
+you make Mistakes.
+It is best to admit
+them Quickly and
+get on with Improving
+your other Innovations.
+
+- Steve Jobs -
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nemoo3ki@gmail.com](mailto:nemoo3ki@gmail.com)
