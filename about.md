@@ -8,8 +8,7 @@ Nemoo Nemoo
 
 ### More Information
 
-``
-Sometimes
+```Sometimes
 when you innovate,
 you make Mistakes.
 
@@ -18,8 +17,7 @@ them Quickly and
 get on with Improving
 your other Innovations.
 
-- Steve Jobs -
-``
+- Steve Jobs -```
 
 ### Contact me
 
