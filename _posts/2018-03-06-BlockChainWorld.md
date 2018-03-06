@@ -29,7 +29,7 @@ AI, Big Data에 이어 최근 블록체인 기반 가상화폐 및 서비스가 
 이외 다양한 세미나가 하루가 멀다하게 열리고 있으니,
 관심 있는 분들은 두루 두루 참석해서 지식의 영역을 넓혀 보세요 ~
 
-https://onoffmix.com/event/128365
+https://onoffmix.com/event/128365(https://onoffmix.com/event/128365)
 
 오늘도 화이팅 ~
 
