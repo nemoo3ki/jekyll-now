@@ -4,7 +4,7 @@ layout: post
 title: 블록체인 월드 : 최신 트렌드와 기술이해&비즈니스 적용전략
 ---
 
-![_config.yml]({{ site.baseurl }}/images/thumb_128365.jpg)
+![config.yml]({{site.baseurl}}/images/thumb_128365.jpg)
 
 "어머님 댁에 블록체인 하나 깔아드려야 되겠어요 ~"
 
